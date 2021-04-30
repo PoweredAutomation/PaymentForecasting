@@ -9,7 +9,6 @@ dash-daq
 dash-html-components
 numpy
 xlrd
-
 dash-extensions
 pybase64
 pystan
