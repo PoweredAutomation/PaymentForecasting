@@ -1,9 +1,15 @@
 # dash is required to call `build:py`
+gunicorn
 dash
 dash-bootstrap-components
-dash_avs_ui-0.0.1.tar.gz
-gunicorn
-dash_core_components as dcc
-dash_html_components
+dash-core-components
 pandas
-plotly.express as px
+plotly-express
+dash-daq
+dash-html-components
+numpy
+xlrd
+dash-extensions
+pybase64
+prophet
+matplotlib
