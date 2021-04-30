@@ -11,5 +11,5 @@ numpy
 xlrd
 dash-extensions
 pybase64
-prophet
+fbprophet
 matplotlib
