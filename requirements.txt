@@ -3,3 +3,7 @@ dash
 dash-bootstrap-components
 dash_avs_ui-0.0.1.tar.gz
 gunicorn
+dash_core_components as dcc
+dash_html_components
+pandas
+plotly.express as px
